@@ -98,6 +98,6 @@ def process_csv_embeddings(input_csv_path, output_csv_path, api_key):
 # 使用示例
 input_file = 'D:/similar_words(1).csv'
 output_file = 'output.csv'
-api_key = '5317479a18b33cf39f3883277eba54fe.Nncl4jLCUaY1C7dZ'  # 请替换为你的实际API密钥
+api_key = ''  # 请替换为你的实际API密钥
 
 process_csv_embeddings(input_file, output_file, api_key)
