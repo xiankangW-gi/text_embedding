@@ -2,7 +2,7 @@ import dashscope
 from http import HTTPStatus
 import numpy as np
 
-dashscope.api_key="sk-83dcd88d8c8c4feeafba22ed4895909b"
+dashscope.api_key=""
 
 resp1 = dashscope.TextEmbedding.call(
     model=dashscope.TextEmbedding.Models.text_embedding_v3,
