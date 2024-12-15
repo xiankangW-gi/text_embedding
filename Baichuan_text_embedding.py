@@ -31,7 +31,7 @@ def cosine_similarity(vec1, vec2):
 url = "https://api.baichuan-ai.com/v1/embeddings"
 
 # 从环境变量中获取 API 密钥
-api_key = 'sk-b129cc0ece29ef9f0a75e8b8f95d07ae'
+api_key = ''
 
 # 定义请求头
 headers = {
